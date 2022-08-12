@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\alunopa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\alunopa\\.nuget\\packages"
+    ]
+  }
+}
